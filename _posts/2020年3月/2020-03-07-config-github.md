@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "博客测试"
+title:  "提高github下载网速"
 categories: 测试
-tags:  MongoDB Redis 
+tags:  config, ssh
 author: Mullen
 ---
 
