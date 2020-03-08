@@ -14,13 +14,13 @@ author: Mullen
 
 #### 1.更新用户自定义pac 规则
 
-```json
+```
 ||github*.com^
 ```
 
 #### 2.配置ssh config
 
-```json
+```
 Host github.com
 Hostname github.com
 IdentityFile ~/.ssh/id_rsa.github
