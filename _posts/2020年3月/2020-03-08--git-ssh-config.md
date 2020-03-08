@@ -4,6 +4,7 @@ title:  "配置git代理"
 categories: ssh,config
 tags:  config
 author: Mullen
+excerpt: "speed up from github"
 ---
 
 * content
